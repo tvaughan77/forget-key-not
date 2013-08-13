@@ -1,4 +1,4 @@
 forget-key-not
 ==============
 
-Android app for remember which-key-does-what
+Android app for remembering which-key-does-what
